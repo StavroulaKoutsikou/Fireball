@@ -16,7 +16,8 @@
 
 Ελπιζω να δειτε την ομορφια του παιχνιδιου και την προσπαθεια! 
 
-
+#
+#
 
 
 
@@ -46,6 +47,10 @@
 
 ![image](https://github.com/StavroulaKoutsikou/Fireball/assets/72344015/270c2f9a-9571-4a7a-a713-fca3d81fa04a)
 
+
+#
+#
+#
 
   "Fireball" was a three-dimensional game implemented in Unity 3D, for the preparation of a semester thesis in the course "Computer Graphics and Interaction Systems".
   Rated 6.5/10 because, as you'll see, it had difficulty colliding.
